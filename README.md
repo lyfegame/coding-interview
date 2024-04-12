@@ -15,6 +15,13 @@ This repo provides a backend which support basic authentication. It will accept 
 
 Please setup a **React** UI that replicates the functionalities shown below. This would require setting up basic authentication with Google and call the appropriate API calls. *There is no need to match the CSS on the given demo*
 
+A working auth flow would be
+1. User clicks on the "Login" button.
+2. User will see a Google login pop up.
+3. After user accept login for the UI, the user's **actual** email address will be shown in the placeholder.
+4. If a user is logged in, they will **stay logged in after a page refresh**.
+5. User can logout by clicking the "Logout" button.
+
 ![Working demo](demo.gif)
 
 ## Exercise (Part 2)
