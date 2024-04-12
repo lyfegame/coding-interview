@@ -19,12 +19,12 @@ Please setup a **React** UI that replicates the functionalities shown below. Thi
 
 ## Exercise (Part 2)
 
-Make this a message board so that any logged in user can leave messages. It should have the following functionaity.
+Implement a message board on top of the UI so that any logged in user can leave messages. It should have the following functionaity.
 - After login, user can see their own messages and all other user's messages.
 - Users can delete their own messages after posted.
 - Users can post messages after login.
 
-You are welcome to use static data on the UI for this part. If you are able to update the DB schema and API to support the functionality, please also include the change in your path.
+Please setup static data for this part, it is **not required** that any data is persisted.
 
 ## Submitting your code
 
